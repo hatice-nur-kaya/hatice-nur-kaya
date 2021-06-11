@@ -14,8 +14,10 @@ I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <br />
-
+<br />
 [instagram]: https://www.instagram.com/kodhnk/?hl=tr
+<br />
 [linkedin]: https://www.linkedin.com/in/haticenurkaya/
+<br />
 [gmail]: mailto:haticenur.4455@gmail.com
 <br />
