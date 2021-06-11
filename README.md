@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ 
@@ -9,7 +8,7 @@
 
 ## ⏲ What we are doing now:
 I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃. 
-<br />
+<br /> <br /> <br />
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
