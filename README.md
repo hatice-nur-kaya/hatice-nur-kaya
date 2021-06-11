@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<br />
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ 
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
@@ -19,6 +19,3 @@ I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃.
 [linkedin]: https://www.linkedin.com/in/haticenurkaya/
 [gmail]: mailto:haticenur.4455@gmail.com
 <br />
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/HNK-hub&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/HNK-hub&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
