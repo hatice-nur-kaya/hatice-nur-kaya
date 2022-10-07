@@ -16,7 +16,7 @@ I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃.
 <br />
 
 [instagram]: https://www.instagram.com/kodhnk/?hl=tr
-[gencprogramcı]: https://medium.com/@haticenur.4455
+[medium]: https://medium.com/@haticenur.4455
 [linkedin]: https://www.linkedin.com/in/haticenurkaya/
 [gmail]: mailto:haticenur.4455@gmail.com
 <br />
