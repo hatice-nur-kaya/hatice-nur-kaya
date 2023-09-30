@@ -9,7 +9,8 @@
 ## ⏲ What we are doing now:
 I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃. 
 <br /> <br /> 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)
 [<img align="left" alt="medium | medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
