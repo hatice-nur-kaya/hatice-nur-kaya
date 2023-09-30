@@ -1,10 +1,12 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
-# I graduated in 2023 from the department of computer engineering. I like to continuously enhance my skills in this field. My introduction to software occurred during my time at university, and I developed a deep affection for it. I am proficient in using Java, C, C#, Arduino, HTML, CSS, and PHP. I am an active voluntary contributor to a website focused on information technology. Additionally, I voluntarily engaged with a company to further my growth and gain practical experience.
-# I have actively participated in various seminars and camps to broaden my knowledge within my field. Holding an IOT1929 Professional Certificate, I have demonstrated my expertise in the realm of the Internet of Things. Notably, I designed a voice-command-operated spray machine using Arduino, showcasing my innovative problem-solving abilities and technical skills.
-# My involvement extends to the realm of SEO, and I have also undertaken a project utilizing the MVC architecture.
-# As a dedicated professional, I continue to seek opportunities to expand my horizons and contribute to technological advancements.
+<p>
+I graduated in 2023 from the department of computer engineering. I like to continuously enhance my skills in this field. My introduction to software occurred during my time at university, and I developed a deep affection for it. I am proficient in using Java, C, C#, Arduino, HTML, CSS, and PHP. I am an active voluntary contributor to a website focused on information technology. Additionally, I voluntarily engaged with a company to further my growth and gain practical experience.
+I have actively participated in various seminars and camps to broaden my knowledge within my field. Holding an IOT1929 Professional Certificate, I have demonstrated my expertise in the realm of the Internet of Things. Notably, I designed a voice-command-operated spray machine using Arduino, showcasing my innovative problem-solving abilities and technical skills.
+My involvement extends to the realm of SEO, and I have also undertaken a project utilizing the MVC architecture.
+As a dedicated professional, I continue to seek opportunities to expand my horizons and contribute to technological advancements.
+</p>
 
 Specialties: C#, C, Java, PHP,Arduino, Unity ,OpenCV Technologies: HTML, CSS3, Bootstrap, React,Vue.js👨‍🎓, Full Stack Developer 🚀, Writer ✍ 
 - 🔭 I’m currently working on a large and special application.
