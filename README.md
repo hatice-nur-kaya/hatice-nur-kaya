@@ -11,7 +11,7 @@ As a dedicated professional, I continue to seek opportunities to expand my horiz
 Specialties: C#, C, Java, PHP,Arduino, Unity ,OpenCV Technologies: HTML, CSS3, Bootstrap, React,Vue.js👨‍🎓, Full Stack Developer 🚀, Writer ✍ 
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 
 ## ⏲ What we are doing now:
 I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃. 
