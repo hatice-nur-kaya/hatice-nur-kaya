@@ -16,7 +16,7 @@ Specialties: C#, C, Java, PHP,Arduino, Unity ,OpenCV Technologies: HTML, CSS3, B
 ## ⏲ What we are doing now:
 I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃. 
 <br /> <br /> 
-<a href="[https://linkedin.com/in/muhmmedinan/](https://www.linkedin.com/in/haticenurkaya/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[linkedin.com/in/muhmmedinan/](https://www.linkedin.com/in/haticenurkaya/)" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/haticenurkaya](https://www.linkedin.com/in/haticenurkaya)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[linkedin.com/in/haticenurkaya/](https://www.linkedin.com/in/haticenurkaya/)" height="30" width="40" /></a>
 [<img align="left" alt="medium | medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
