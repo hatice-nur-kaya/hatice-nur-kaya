@@ -26,3 +26,5 @@ I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃.
 [medium]: https://medium.com/@haticenur.4455
 [gmail]: mailto:haticenur.4455@gmail.com
 <br />
+
+<img src="https://github.com/hatice-nur-kaya/hatice-nur-kaya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
