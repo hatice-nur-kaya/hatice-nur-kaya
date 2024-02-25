@@ -40,6 +40,7 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - Developing a project for JAVA-REACT CAMP 🚀
 - Writing on 1 site 📃
 - A donation project was made with Java
+- Projects related to autism and earthquakes are being carried out.
 
 ## Stats
 
