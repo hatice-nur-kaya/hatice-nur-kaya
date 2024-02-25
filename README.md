@@ -39,6 +39,7 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 ## ⏲ What I'm doing now:
 - Developing a project for JAVA-REACT CAMP 🚀
 - Writing on 1 site 📃
+- A donation project was made with Java
 
 ## Stats
 
