@@ -1,30 +1,30 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br />
-<p>
-I graduated in 2023 from the department of computer engineering. I like to continuously enhance my skills in this field. My introduction to software occurred during my time at university, and I developed a deep affection for it. I am proficient in using Java, C, C#, Arduino, HTML, CSS, and PHP. I am an active voluntary contributor to a website focused on information technology. Additionally, I voluntarily engaged with a company to further my growth and gain practical experience.
-I have actively participated in various seminars and camps to broaden my knowledge within my field. Holding an IOT1929 Professional Certificate, I have demonstrated my expertise in the realm of the Internet of Things. Notably, I designed a voice-command-operated spray machine using Arduino, showcasing my innovative problem-solving abilities and technical skills.
-My involvement extends to the realm of SEO, and I have also undertaken a project utilizing the MVC architecture.
-As a dedicated professional, I continue to seek opportunities to expand my horizons and contribute to technological advancements.
-</p>
 
-Specialties: C#, C, Java, PHP,Arduino, Unity ,OpenCV Technologies: HTML, CSS3, Bootstrap, React,Vue.js👨‍🎓, Full Stack Developer 🚀, Writer ✍ 
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
 
-## ⏲ What we are doing now:
-I'm developing a project for JAVA-REACT CAMP 🚀, I am writing on 1 sites 📃. 
-<br /> <br /> 
+I graduated in 2023 from the department of computer engineering and have since been continuously enhancing my skills in the field of software development. Proficient in Java, C, C#, Arduino, HTML, CSS, and PHP, I'm an active voluntary contributor to a website focused on information technology. I've also gained practical experience by engaging with a company voluntarily.
 
-[<img align="left" alt="medium | medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-<br />
+My expertise extends to seminars and camps within my field, and I hold an IOT1929 Professional Certificate, showcasing my proficiency in the Internet of Things. Notably, I designed a voice-command-operated spray machine using Arduino, demonstrating innovative problem-solving abilities.
 
-[instagram]: https://www.instagram.com/kodhnk/?hl=tr
+I'm also involved in SEO and have undertaken a project utilizing the MVC architecture. As a dedicated professional, I continuously seek opportunities to expand my horizons and contribute to technological advancements.
+
+Specialties: C#, C, Java, PHP, Arduino, Unity, OpenCV
+Technologies: HTML, CSS3, Bootstrap, React, Vue.js
+👨‍🎓 Full Stack Developer | ✍ Writer
+
+- 🔭 Currently working on a large and special application.
+- 🌱 Currently learning artificial intelligence.
+- 🥅 2023 Goals: Developing an app to make an impact globally.
+
+## ⏲ What I'm doing now:
+- Developing a project for JAVA-REACT CAMP 🚀
+- Writing on 1 site 📃
+
+Connect with me:
+[<img align="left" alt="Medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
+[<img align="left" alt="Instagram" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gmail" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
 [medium]: https://medium.com/@haticenur.4455
+[instagram]: https://www.instagram.com/kodhnk/?hl=tr
 [gmail]: mailto:haticenur.4455@gmail.com
-<br />
-
-<img src="https://github.com/hatice-nur-kaya/hatice-nur-kaya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
