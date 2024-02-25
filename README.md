@@ -40,10 +40,12 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 ## ⏲ What I'm doing now:
 - Developing a project for JAVA-REACT CAMP 🚀
 - Writing on 1 site 📃
+- 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian)
+
 
 Connect with me:
 [<img align="left" alt="Medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
