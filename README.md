@@ -44,8 +44,3 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian)
-
-Connect with me:
-[<img align="left" alt="Medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
-[<img align="left" alt="Instagram" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Gmail" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
