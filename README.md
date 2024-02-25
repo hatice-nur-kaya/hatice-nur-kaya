@@ -49,7 +49,3 @@ Connect with me:
 [<img align="left" alt="Medium" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitbook.svg" />][medium]
 [<img align="left" alt="Instagram" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Gmail" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-[medium]: https://medium.com/@haticenur.4455
-[instagram]: https://www.instagram.com/kodhnk/?hl=tr
-[gmail]: mailto:haticenur.4455@gmail.com
