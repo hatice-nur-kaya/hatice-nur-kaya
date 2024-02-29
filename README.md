@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
 
 I graduated in 2023 from the department of computer engineering and have since been continuously enhancing my skills in the field of software development. Proficient in Java, C, C#, Arduino, HTML, CSS, and PHP, I'm an active voluntary contributor to a website focused on information technology. I've also gained practical experience by engaging with a company voluntarily.
@@ -42,8 +42,9 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - Writing on 1 site 📃
 - A donation project was made with Java
 - Projects related to autism and earthquakes are being carried out.
-
+- 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian)
+<img src="https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian" width="400">
+
