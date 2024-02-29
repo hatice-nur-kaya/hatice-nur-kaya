@@ -45,6 +45,7 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian" width="400">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian){width="400px"}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian){width="400px"}
+
 
