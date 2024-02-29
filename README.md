@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
 
 I graduated in 2023 from the department of computer engineering and have since been continuously enhancing my skills in the field of software development. Proficient in Java, C, C#, Arduino, HTML, CSS, and PHP, I'm an active voluntary contributor to a website focused on information technology. I've also gained practical experience by engaging with a company voluntarily.
 
