@@ -43,14 +43,8 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - A donation project was made with Java
 - Projects related to autism and earthquakes are being carried out.
 
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hatice-nur-kayam&theme=dark" width="48%" >
-
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&layout=compact)
-
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={hatice-nur-kaya}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
 ## Stats
