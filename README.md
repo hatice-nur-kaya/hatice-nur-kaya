@@ -20,7 +20,6 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
@@ -33,6 +32,7 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+
 - 🔭 Currently working on a large and special application.
 - 🌱 Currently learning artificial intelligence.
 - 🥅 2023 Goals: Developing an app to make an impact globally.
@@ -43,8 +43,8 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - A donation project was made with Java
 - Projects related to autism and earthquakes are being carried out.
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hatice-nur-kaya&theme=dark" width="48%" >
 
 
 ## Stats
