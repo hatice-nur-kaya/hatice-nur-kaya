@@ -44,8 +44,9 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - Projects related to autism and earthquakes are being carried out.
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hatice-nur-kaya&theme=dark" width="48%" >
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatice-nur-kaya&theme=dark" width="48%" >
+</p>
 
 ## Stats
 
