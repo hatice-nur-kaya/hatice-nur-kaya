@@ -43,7 +43,7 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 - A donation project was made with Java
 - Projects related to autism and earthquakes are being carried out.
 <img src="https://github.com/hatice-nur-kaya/hatice-nur-kaya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-### Github Streaks
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatice-nur-kaya&theme=dark" width="48%" >
 </p>
