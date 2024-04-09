@@ -9,7 +9,10 @@ My expertise extends to seminars and camps within my field, and I hold an IOT192
 
 I'm also involved in SEO and have undertaken a project utilizing the MVC architecture. As a dedicated professional, I continuously seek opportunities to expand my horizons and contribute to technological advancements.
 
+
 ## Skills
+
+
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)
