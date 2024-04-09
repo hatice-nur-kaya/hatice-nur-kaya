@@ -22,7 +22,6 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
