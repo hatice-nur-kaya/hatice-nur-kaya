@@ -50,7 +50,6 @@ I'm also involved in SEO and have undertaken a project utilizing the MVC archite
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatice-nur-kaya&theme=dark" width="48%" >
 </p>
 
-## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hatice-nur-kaya&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatice-nur-kaya&hide=TeX&layout=compact&theme=prussian)
